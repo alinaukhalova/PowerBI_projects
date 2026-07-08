@@ -9,5 +9,5 @@
 
 ## Стек инструментов
 - Power BI Desktop
-- Power Query (M) 
+- Power Query 
 - DAX
